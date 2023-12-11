@@ -1,10 +1,11 @@
 # project-euler
 
-A Clojure library designed to ... well, that part is up to you.
+Solutions to Project Euler problems
 
 ## Usage
 
-FIXME
+It's rewarding when you solve things on your own. Don't copy these. I'm a new 
+clojure developer and as such my answers are likely not the best.
 
 ## License
 
